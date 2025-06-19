@@ -3,8 +3,7 @@ h1{
 }
 p{
     color:aqua;
-}
-.snowburst-one-regular {
+.snowburst-one-regular 
   font-family: "Snowburst One", system-ui;
   font-weight: 400;
   font-style: normal;

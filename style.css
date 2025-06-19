@@ -1,4 +1,11 @@
 h1{
     color:blue;
 }
-background-color: rgb(38, 109, 137);
+p{
+    color:aqua;
+}
+.snowburst-one-regular {
+  font-family: "Snowburst One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
